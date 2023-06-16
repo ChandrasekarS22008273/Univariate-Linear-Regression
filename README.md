@@ -45,12 +45,6 @@ print(y_pred)
 plt.scatter(x,y)
 plt.plot(x,y_pred,color="orange")
 plt.show()
-
-
-
-
-
-
 ```
 ## Output
 ![exp 9](https://github.com/Safeeq-Fazil/Univariate-Linear-Regression/assets/118680361/13e2bece-97a2-4aa5-8e2d-3768f4ff1cd9)
